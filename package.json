@@ -1,0 +1,16 @@
+{
+  "name": "mongotube",
+  "version": "1.0.0",
+  "description": "MongoDb tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.2",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.11"
+  }
+}
